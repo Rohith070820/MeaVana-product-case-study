@@ -7,9 +7,10 @@ This repository contains a product management case study for MeaVana, a Chrome e
 
 The case study explores strategies to drive user growth for MeaVana by focusing on students within educational institutions. It addresses key user pain points, proposes a three-pillar approach (Target, Convert, Retain), and outlines competitive analysis, success metrics, and potential challenges.
 
-## File
+## Case Study File
 
-- **[[Driving-Growth-via-the-School-Route-for-MeaVana.pdf](Driving-Growth-via-the-School-Route-for-MeaVana.pdf)](https://github.com/Rohith070820/MeaVana-product-case-study/blob/main/Driving%20Growth%20via%20the%20School%20Route%20for%20MeaVana.pdf)**: The full case study document[1].
+👉 [Driving-Growth-via-the-School-Route-for-MeaVana.pdf](https://github.com/Rohith070820/MeaVana-product-case-study/blob/main/Driving%20Growth%20via%20the%20School%20Route%20for%20MeaVana.pdf)
+
 
 ## Key Highlights
 
