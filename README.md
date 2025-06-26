@@ -9,7 +9,7 @@ The case study explores strategies to drive user growth for MeaVana by focusing 
 
 ## File
 
-- **[Driving-Growth-via-the-School-Route-for-MeaVana.pdf](Driving-Growth-via-the-School-Route-for-MeaVana.pdf)**: The full case study document[1].
+- **[[Driving-Growth-via-the-School-Route-for-MeaVana.pdf](Driving-Growth-via-the-School-Route-for-MeaVana.pdf)](https://github.com/Rohith070820/MeaVana-product-case-study/blob/main/Driving%20Growth%20via%20the%20School%20Route%20for%20MeaVana.pdf)**: The full case study document[1].
 
 ## Key Highlights
 
